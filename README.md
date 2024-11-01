@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @RayMune
-- 👀 I’m interested in Data Science and App development
-- 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on Everything
-- 📫 How to reach me raymunene@outlook.com
+👋 Hi, I’m Ray Munene ( @RayMune )
+👀 Interests: Data Science | App Development | Machine Learning <br> 🌱 Currently Learning: Machine Learning, Cloud Engineering <br> 💼 Looking to Collaborate On: Open-source projects in data science, ML applications, or web development <br> 📫 How to Reach Me: raymunene@outlook.com
 
-<!---
-RayMune/RayMune is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🛠️ Skills & Tools
+Languages: Python, JavaScript, SQL, HTML/CSS
+Frameworks & Libraries: TensorFlow, PyTorch, scikit-learn, React
+Tools & Platforms: Git, Docker, Google Cloud Platform, AWS
+
+🌟 Featured Projects
+Chama-Bot: Automating business responses via (Email,Text,W-App and Voice Calls)
+AWS DeepRacer- top 10% in Region
+
+📈 GitHub Stats
+
+💬 Connect with Me
+RayMunene@outlook.com

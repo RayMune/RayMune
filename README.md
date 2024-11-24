@@ -1,5 +1,5 @@
 👋 Hi, I’m Ray Munene ( @RayMune )
-👀 Interests: Data Science | App Development | Machine Learning <br> 🌱 Currently Learning: Machine Learning, Cloud Engineering <br> 💼 Looking to Collaborate On: Open-source projects in data science, ML applications, or web development <br> 📫 How to Reach Me: raymunene@outlook.com
+👀 Interests: Data Science | Software Development | Machine Learning <br> 🌱 Currently Learning: Machine Learning <br> 💼 Looking to Collaborate On: Open-source projects in data science, ML applications, or web development <br> 📫 How to Reach Me: raymunene@outlook.com
 
 🛠️ Skills & Tools 🛠️
 Languages: Python, PHP, Golang, SQL, HTML/CSS.

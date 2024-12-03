@@ -1,6 +1,6 @@
-# 🚀 AI & Machine Learning Innovation
+# 🚀 AI & Machine Learning Innovator
 
-## Hey there! I'm [Your Name] 👋
+## Hey there! I'm Ray 👋
 *Machine Learning Engineer | AI Innovator | Tech Content Creator*
 
 ### 🧠 Projects worked on
@@ -61,7 +61,7 @@ class AIInnovator:
 ### 🏆 Key Achievements
 - Top 10% Worldwide - AWS DeepRacer Global League
 - Developed AI-powered phone call management system
-- Created gesture-controlled virtual keyboard
+- GDG Nairobi 2024 Hackathon Runners-up
 - Tech content writer amplifying African tech narratives
 
 ---

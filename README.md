@@ -1,72 +1,71 @@
-# 🧠 Data Alchemy: Transforming Bits into Insights
+# 🚀 AI & Machine Learning Innovation
 
-## Hey there! I'm Ray 👋
-*Machine Learning Engineer | AI Innovator | Data Storyteller*
+## Hey there! I'm [Your Name] 👋
+*Machine Learning Engineer | AI Innovator | Tech Content Creator*
 
-![Profile Banner](https://your-banner-url.com/banner.png)
+### 🧠 Projects worked on
 
-### 🚀 About Me
-I'm not just a machine learning engineer—I'm a digital alchemist who transforms raw data into intelligent solutions. With a passion for turning complex problems into elegant algorithms, I dance between Python libraries and neural networks, turning coffee ☕ into code.
+#### 🤖 AI Phone Assistant 
+**LLaMa 3.1 & ElevenLabs Integration**
+- Developed an intelligent AI assistant capable of managing phone calls
+- Leveraged advanced language models for conversational intelligence
+- Integrated ElevenLabs for natural voice interaction
+- Demonstrated cutting-edge AI communication technologies
 
-### 💡 Tech Arsenal
+#### 🎮 Gesture-Controlled Virtual Keyboard
+**ML-Powered Interaction System**
+- Created an innovative gesture tracking solution using open-source ML models
+- Implemented real-time gesture recognition for in-game movement control
+- Developed a novel human-computer interaction interface
+- Showcased advanced computer vision and machine learning techniques
+
+#### 🚗 Autonomous Driving Excellence
+**AWS DeepRacer Global League**
+- Achieved top 10% worldwide ranking in AWS DeepRacer Global League
+- Developed and optimized reinforcement learning algorithms for autonomous racing
+- Demonstrated expertise in robotics and machine learning applied to autonomous systems
+
+### 💡 Tech Stack
 ![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Certified-orange?logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-Advanced-red?logo=pytorch)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Mastered-green)
-![Docker](https://img.shields.io/badge/Docker-Containerization-blue?logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?logo=kubernetes)
+![Machine Learning](https://img.shields.io/badge/ML-Advanced-orange)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Specialized-green)
+![LLMs](https://img.shields.io/badge/Large%20Language%20Models-Proficient-red)
+![AWS](https://img.shields.io/badge/AWS-Certified-orange?logo=amazon)
 
-### 🌟 Featured Projects
+### ✍️ Tech Writing
+**Tech Content Writer at Techweez**
+- Contributing to African tech journalism
+- Covering innovative technologies and emerging tech trends
+- Bridging the gap between complex tech concepts and broader audience understanding
 
-#### 🤖 Sentiment Symphony
-**Emotion-Aware Text Analysis Platform**
-- 📊 Real-time sentiment detection using transformer models
-- 🧠 Advanced NLP techniques with 92% accuracy
-- 🚀 Deployed as microservice architecture
-- [Explore Project](https://github.com/yourusername/sentiment-symphony)
-
-#### 🚗 AutoML Autopilot
-**Automated Machine Learning Pipeline**
-- 🤖 Automated model selection and hyperparameter tuning
-- ⚡ Reduced model development time by 60%
-- 📈 Supports multiple machine learning frameworks
-- [View Repository](https://github.com/yourusername/automl-autopilot)
-
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-### 🧩 What Drives Me
-```python
-class MachineLearningPhilosophy:
-    def __init__(self):
-        self.motivation = "Solving real-world problems with intelligent systems"
-        self.core_beliefs = [
-            "Data is the new oil, but algorithms are the refinery",
-            "Continuous learning is not just a method, it's a lifestyle",
-            "Ethics and AI go hand in hand"
-        ]
-    
-    def innovate(self):
-        return "Transform complexity into simplicity"
-```
-
-### 🌐 Connect with Me
+### 🌐 Connect & Explore
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/yourusername)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](https://twitter.com/yourusername)
-[![Personal Blog](https://img.shields.io/badge/Blog-Read%20My%20Thoughts-green)](https://yourblog.com)
+[![Tech Articles](https://img.shields.io/badge/Tech%20Writing-Read%20My%20Articles-green)](https://techweez.com/author/yourusername)
 
-### 🏆 Certifications & Achievements
-- 🥇 Google Cloud Professional Machine Learning Engineer
-- 🏅 AWS Certified Machine Learning – Specialty
-- 📜 Deep Learning Specialization by deeplearning.ai
+### 🚀 Personal Code Philosophy
+```python
+class AIInnovator:
+    def __init__(self):
+        self.mission = "Pushing boundaries of AI and human interaction"
+        self.core_values = [
+            "Innovative problem-solving",
+            "Ethical AI development",
+            "Continuous learning"
+        ]
+    
+    def transform_ideas(self):
+        return "Turning cutting-edge concepts into practical solutions"
+```
 
-### 📩 Current Research Interests
-- 🤖 Explainable AI
-- 🧠 Neuromorphic Computing
-- 🌍 AI for Social Good
+### 🏆 Key Achievements
+- Top 10% Worldwide - AWS DeepRacer Global League
+- Developed AI-powered phone call management system
+- Created gesture-controlled virtual keyboard
+- Tech content writer amplifying African tech narratives
 
 ---
 
-*"In the realm of machine learning, curiosity is our compass, and innovation is our destination."* 🚀
+*"Innovation is not just about technology, it's about solving real-world challenges"* 🌍
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)

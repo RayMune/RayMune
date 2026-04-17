@@ -1,5 +1,5 @@
-# ⚡ RAY MUNENE // AI SYSTEMS BUILDER
-#    ML ENGINEER // AI SYSTEMS BUILDER
+# ⚡ RAY MUNENE 
+
 > *“Building intelligence that works in the real world, not just in labs.”*
 
 ---
